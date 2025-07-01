@@ -63,6 +63,7 @@ Runs directly in your browser. No installation needed.
 ## 📸 Screenshots
 
 <!-- Add images here -->
+![banner](https://github.com/user-attachments/assets/c96420e4-c676-4e33-ac20-2f2f33e43df6)
 ![1](https://github.com/user-attachments/assets/ae9aaa92-569b-4888-bf40-9758dd3ee0b9)
 ![2](https://github.com/user-attachments/assets/8ad0ce31-287f-4ba7-96bf-774809ebc1c2)
 
